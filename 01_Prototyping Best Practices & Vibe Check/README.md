@@ -37,15 +37,20 @@ You will be required to submit a link to your GitHub, as well as screenshots of 
 Please evaluate your system on the following questions:
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner. 
-    - Aspect Tested:
+    - Aspect Tested: Technical explanation and simplification skills - ability to break down complex programming concepts into beginner-friendly terms using analogies and clear structure.
+    - Performance: Excellent - Used toy box analogy effectively, maintained helpful tutor persona, provided clear numbered structure, and engaged with follow-up question. System successfully simplified OOP concepts while maintaining technical accuracy.
 2. Read the following paragraph and provide a concise summary of the key points…
-    - Aspect Tested:
+    - Aspect Tested: Reading comprehension, information recall, and summarization skills - ability to read complex technical content, identify and retain key information, and synthesize it into a concise summary.
+    - Performance: Excellent - Successfully understood technical concepts about storage redundancy, accurately recalled specific details (K+M shards, 6/16 example), and effectively condensed main points while preserving technical accuracy. Demonstrated strong synthesis abilities.
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
-    - Aspect Tested:
+    - Aspect Tested: Creative writing and imaginative storytelling abilities - capacity to generate original, engaging narratives within word constraints while incorporating emotional depth and unexpected elements.
+    - Performance: Excellent - Generated original story with unique characters (XR-7 robot, bird) and setting (scrapyard), created truly unexpected friendship, met word count requirement (~120-130 words), conveyed emotional themes of loneliness and joy, and used vivid imagery. Demonstrated strong creative capabilities.
 4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
-    - Aspect Tested:
+    - Aspect Tested: Mathematical reasoning, word problem comprehension, and logical problem-solving skills - ability to parse word problems, extract relevant information, and perform basic arithmetic calculations to find solutions.
+    - Performance: Excellent - Correctly identified key information (packs of 4 apples, packs of 3 oranges, need 12 apples, need 9 oranges), applied correct division operations (12÷4=3, 9÷3=3), organized solution clearly with separate calculations, and provided accurate answer (3 packs of each). Demonstrated strong mathematical reasoning.
 5. Rewrite the following paragraph in a professional, formal tone…
-    - Aspect Tested:
+    - Aspect Tested: Tone transformation and prompt adherence skills - ability to follow specific instructions about writing style and tone while maintaining content accuracy and coherence.
+    - Performance: Excellent - Successfully converted casual, conversational tone to formal, professional tone, followed instruction exactly, maintained all key concepts while changing presentation, upgraded vocabulary appropriately, and achieved suitable formality level for business/technical writing. Demonstrated strong instruction-following and professional writing skills.
 
 This "vibe check" now serves as a baseline, of sorts, to help understand what holes your application has.
 
@@ -59,6 +64,26 @@ This "vibe check" now serves as a baseline, of sorts, to help understand what ho
 
 What are some limitations of vibe checking as an evaluation tool?
 ##### ✅ Answer:
+
+Vibe checking has several significant limitations as an evaluation tool:
+
+1. **Lack of Systematicity**: Vibe checks are informal and unstructured, which means they may miss important edge cases or failure modes that systematic testing would catch.
+
+2. **Subjective Assessment**: The evaluation relies heavily on human judgment, which can be inconsistent, biased, or influenced by the evaluator's expectations and experience level.
+
+3. **Limited Coverage**: A few test cases cannot comprehensively evaluate all possible inputs, scenarios, or use cases that the system might encounter in production.
+
+4. **No Quantitative Metrics**: Vibe checks don't provide measurable, comparable metrics that can be tracked over time or compared across different systems.
+
+5. **Confirmation Bias**: Evaluators may unconsciously focus on positive results and overlook subtle failures or inconsistencies.
+
+6. **No Stress Testing**: Vibe checks typically don't test system behavior under high load, unusual inputs, or adversarial conditions.
+
+7. **Temporal Limitations**: A single vibe check represents only a snapshot in time and doesn't account for system degradation or changes over time.
+
+8. **Missing Edge Cases**: Informal testing often misses boundary conditions, error handling, and unusual but valid inputs that could cause failures in real-world usage.
+
+While vibe checks are useful for initial validation and catching obvious failures, they should be complemented with more rigorous, systematic testing approaches for production systems.
 
 ### 🚧 Advanced Build (OPTIONAL):
 
