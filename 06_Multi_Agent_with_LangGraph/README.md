@@ -6,9 +6,9 @@
 
 ## <h1 align="center" id="heading">Session 6: Multi-Agent with LangGraph</h1>
 
-| 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
-|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| [Session 6: Pre-Work](https://www.notion.so/Session-6-Multi-Agent-Applications-with-LangGraph-22bcd547af3d80f7a2e0cc7a2c6d7d8f?source=copy_link#22bcd547af3d8021ac68fade5a7b9df2)| [Session 6: Multi-Agent Applications with LangGraph](https://www.notion.so/Session-6-Multi-Agent-Applications-with-LangGraph-22bcd547af3d80f7a2e0cc7a2c6d7d8f) | [Recording!](https://us02web.zoom.us/rec/share/CnsbWyce6zleEHYzebhqGcbg0syunLmLkWroRQ7ATRKaz3rDqGa7sj7FQfb0hb8U.aB_oEqnl75nk68ej)  (@2nEaXuk) | [Session 6 Slides](https://www.canva.com/design/DAGstHQ78gU/D_DHLWAO5KZoQ5R1RjG3YA/edit?utm_content=DAGstHQ78gU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | You are here! | [Session 6 Assignment: Multi-agents](https://forms.gle/HScbKATi6nCNYZx57)| [AIE7 Feedback 7/10](https://forms.gle/itQqhBW2PY7DTFi76)
+| 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
+|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
+| [Session 6: Multi-Agent Applications with LangGraph](https://www.notion.so/Session-6-Multi-Agent-Applications-with-LangGraph-26acd547af3d8052b965e5b330148d1b) |[Recording!](https://us02web.zoom.us/rec/share/difeylk8I-0DSOXAMJS-cWpxyhlVhM1ts0KcWzJsTQg_FrHey5TGmsoPevddzmAO.QSjRQj4YdKK796i4) (21@71%F&) | [Session 6 Slides](https://www.canva.com/design/DAG0A0ury_k/_KgaIlTGgb2JP8024RzUJA/edit?utm_content=DAG0A0ury_k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | You are here! | [Session 6 Assignment: Multi-Agent](https://forms.gle/89MASHWbzqTtfXyC7) | [AIE8 Feedback 9/25](https://forms.gle/YpfdQ9QyyBgqcUhf9)
 
 In today's assignment, we'll be creating a MULTI-Agentic LangGraph Application.
 
