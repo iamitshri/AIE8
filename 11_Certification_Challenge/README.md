@@ -10,6 +10,10 @@ A full-stack AI agent powered by **Retrieval Augmented Generation (RAG)** with t
   - 🌐 Web search (Tavily)
   - 📚 Academic papers (Arxiv)
 
+### Deliverables
+
+- Refer to [report.docx](report.docx) for the questions required to be answered for the certification challenge
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -68,7 +72,7 @@ npm run dev
 Frontend runs on: **<http://localhost:5173>**
 
 ## ⚡ Quick Setup & Run Script
- 
+
 **Terminal 1:**
 
 ```bash
