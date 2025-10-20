@@ -19,7 +19,7 @@ def create_rag_tool(rag_graph):
     @tool
     def ai_rag_tool(question: str):
         """
-        Use this tool to answer questions based on internal knowledge documents.
+        Use this RAG tool to answer questions based on internal knowledge documents.
         Input should be a fully formed question.
         """
         print(f"RAG tool called with question: {question}")

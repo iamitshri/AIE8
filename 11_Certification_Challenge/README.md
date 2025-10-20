@@ -18,7 +18,7 @@ A full-stack AI agent powered by **Retrieval Augmented Generation (RAG)** with t
 - Node.js 18+
 - [uv](https://github.com/astral-sh/uv) - Fast Python package manager (install with `pip install uv`)
 - OpenAI API key (set in `.env` file)
-- Optional: Tavily API key for web search
+- Tavily API key (set in `.env` file)
 
 ### 1️⃣ Setup Backend
 
@@ -33,8 +33,8 @@ uv sync
 **Add `.env` file in project root:**
 
 ```
-OPENAI_API_KEY=sk-your-key-here
-TAVILY_API_KEY=your-tavily-key-here  # Optional
+OPENAI_API_KEY=xxx
+TAVILY_API_KEY=xxx
 ```
 
 **Add PDF documents:**
@@ -68,38 +68,14 @@ npm run dev
 Frontend runs on: **<http://localhost:5173>**
 
 ## ⚡ Quick Setup & Run Script
-
-```bash
-#!/bin/bash
-
-# Install all dependencies
-echo "📦 Installing dependencies..."
-uv sync
-cd frontend && npm install && cd ..
-
-# Start backend in background
-echo "🚀 Starting backend..."
-uv run python -m src.main &
-
-# Give backend time to start
-# wait for the backend to index the documents and startup
-sleep 20
-
-# Start frontend
-echo "🚀 Starting frontend..."
-cd frontend
-npm run dev
-```
-
-**Or run in separate terminals:**
-
-Terminal 1:
+ 
+**Terminal 1:**
 
 ```bash
 uv run python -m src.main
 ```
 
-Terminal 2:
+**Terminal 2:**
 
 ```bash
 cd frontend && npm run dev
