@@ -1,4 +1,11 @@
-# RAG Chat Interface - AI Agent with Web Tools
+# Submission document report and video demo
+
+- Refer to [report.docx](report.docx) for the questions required to be answered for the certification challenge
+- [Video Demo](https://www.loom.com/share/f37c4462bbe74f31b5a2d0aefef28820)
+
+---
+
+## RAG Chat Interface - AI Agent with Web Tools
 
 A full-stack AI agent powered by **Retrieval Augmented Generation (RAG)** with tool calling capabilities. Query internal documents, search the web (Tavily), or explore academic papers (Arxiv) - all through an elegant chat interface.
 
@@ -9,14 +16,6 @@ A full-stack AI agent powered by **Retrieval Augmented Generation (RAG)** with t
   - 📄 Internal documents (RAG)
   - 🌐 Web search (Tavily)
   - 📚 Academic papers (Arxiv)
-
-### Deliverables
-
-- Refer to [report.docx](report.docx) for the questions required to be answered for the certification challenge
-
-## Video Demo
-
-- [Video Demo](https://www.loom.com/share/f37c4462bbe74f31b5a2d0aefef28820)
 
 ## 🚀 Quick Start
 
