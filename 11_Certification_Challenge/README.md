@@ -14,6 +14,10 @@ A full-stack AI agent powered by **Retrieval Augmented Generation (RAG)** with t
 
 - Refer to [report.docx](report.docx) for the questions required to be answered for the certification challenge
 
+## Video Demo
+
+- [Video Demo](https://www.loom.com/share/f37c4462bbe74f31b5a2d0aefef28820)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
