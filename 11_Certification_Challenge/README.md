@@ -1,6 +1,6 @@
 # Submission document report and video demo
 
-- Refer to [report.docx](report.docx) for the questions required to be answered for the certification challenge
+- Refer to [Certification-challenge-submission-Report.docx](Certification-challenge-submission-Report.docx) for the questions required to be answered for the certification challenge
 - [Video Demo](https://www.loom.com/share/f37c4462bbe74f31b5a2d0aefef28820)
 
 ---
